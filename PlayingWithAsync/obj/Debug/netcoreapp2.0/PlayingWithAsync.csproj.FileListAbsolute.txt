@@ -1,0 +1,11 @@
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\bin\Debug\netcoreapp2.0\PlayingWithAsync.deps.json
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\bin\Debug\netcoreapp2.0\PlayingWithAsync.runtimeconfig.json
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\bin\Debug\netcoreapp2.0\PlayingWithAsync.runtimeconfig.dev.json
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\bin\Debug\netcoreapp2.0\PlayingWithAsync.dll
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.csprojResolveAssemblyReference.cache
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.csproj.CoreCompileInputs.cache
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.AssemblyInfoInputs.cache
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.AssemblyInfo.cs
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\bin\Debug\netcoreapp2.0\PlayingWithAsync.pdb
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.dll
+c:\users\ciumacar\source\repos\PlayingWithAsync\PlayingWithAsync\obj\Debug\netcoreapp2.0\PlayingWithAsync.pdb
